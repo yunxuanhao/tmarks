@@ -105,7 +105,6 @@ pnpm dev
 **前置要求:**
 - Cloudflare账号
 - GitHub账号
-- 安装Wrangler CLI: `npm install -g wrangler`
 
 **步骤:**
 
